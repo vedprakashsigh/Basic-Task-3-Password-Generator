@@ -14,7 +14,7 @@ The Password Generator program generates random passwords based on the user's sp
 
 ## Usage
 
-1. Run the Python script (`password_generator.py`).
+1. Run the Python script (`main.py`).
 2. Enter the number of passwords you want to generate.
 3. Enter the desired length for each password (minimum 3 characters).
 4. The program will generate random passwords based on your specifications.
@@ -29,7 +29,7 @@ The Password Generator program generates random passwords based on the user's sp
 To run the script, execute the following command in your terminal or command prompt:
 
 ```bash
-python password_generator.py
+python main.py
 ```
 
 ## Contributing
